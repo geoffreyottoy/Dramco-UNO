@@ -12,10 +12,10 @@
             {
                "name":"Dramco UNO",
                "architecture":"avr",
-               "version":"0.2.6",
+               "version":"0.2.7",
                "category":"Dramco",
-               "url":"https://github.com/geoffreyottoy/Dramco-UNO/archive/0.2.6.zip",
-               "archiveFileName":"0.2.6.zip",
+               "url":"https://github.com/geoffreyottoy/Dramco-UNO/archive/0.2.7.zip",
+               "archiveFileName":"0.2.7.zip",
                "checksum":"SHA-256:5f9602b15f62a919c7a0e125baf4d4c0f25cb3829866d4be3af4979380ce86ea",
                "size":"2231288",
                "help":{
